@@ -1,0 +1,6 @@
+C:\Users\strab\Desktop\MaxPathSum\MaxPathSum\bin\Debug\MaxPathSum.exe.config
+C:\Users\strab\Desktop\MaxPathSum\MaxPathSum\bin\Debug\MaxPathSum.exe
+C:\Users\strab\Desktop\MaxPathSum\MaxPathSum\bin\Debug\MaxPathSum.pdb
+C:\Users\strab\Desktop\MaxPathSum\MaxPathSum\obj\Debug\MaxPathSum.csprojResolveAssemblyReference.cache
+C:\Users\strab\Desktop\MaxPathSum\MaxPathSum\obj\Debug\MaxPathSum.exe
+C:\Users\strab\Desktop\MaxPathSum\MaxPathSum\obj\Debug\MaxPathSum.pdb
